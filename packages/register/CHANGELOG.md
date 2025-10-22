@@ -494,3 +494,5 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Features
 
 - **core:** add support for emitDecoratorMetadata ([edd2fd5](https://github.com/swc-project/swc-node/commit/edd2fd575bf43bf4206a49b5b078945de5eae95a))
+
+<!-- Auto-update: 2025-10-22T08:17:16.207744 -->
