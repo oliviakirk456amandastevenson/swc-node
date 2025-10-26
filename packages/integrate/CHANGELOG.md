@@ -23,3 +23,5 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - **register:** support read include/exclude config from tsconfig ([0dec2cd](https://github.com/swc-project/swc-node/commit/0dec2cdcf002c361abef068cf227a8bfe6cdea2a))
 - add name-shadowed fixture ([f0ea5e7](https://github.com/swc-project/swc-node/commit/f0ea5e7331a99b7c62123cd64382613c7fe84221))
 - init toolchains ([9585294](https://github.com/swc-project/swc-node/commit/9585294b79765c0cf15d376133d5a593a50fbe86))
+
+<!-- Auto-update: 2025-10-26T08:19:26.226179 -->
